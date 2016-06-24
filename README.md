@@ -1,4 +1,4 @@
-# node-red-accelerometer
+# node accelerometer javascript
 
 A proof of concept to demostrate any measure captured from a accelerometer attached to a raspberry pi 3 and transport this information throw mqtt protocol to a hub server thats centralize this information using a mqtt message broker like mosca and message router like node-red to parse and manage. In this case we will use a node-red flow on the raspberry 3 and not python service to capture the accelerometer measures.
 
