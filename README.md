@@ -16,8 +16,6 @@ The Raspberry pi 3 and accelerometer connected
 
 Architecture
 
-![accelerometer_arch](https://cloud.githubusercontent.com/assets/1216181/16018154/7defe644-31a3-11e6-93c2-b8d0c215537d.jpg)
-
 # Hardware:
 
 - [Raspberry pi 3](https://www.raspberrypi.org/): The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation.
@@ -33,12 +31,11 @@ Architecture
 # Infraestructure Techonologies on device
 
 - [node-red-contrib-gpio](https://github.com/monteslu/node-red-contrib-gpio): A set of node-red nodes for connecting to johnny-five IO Plugins.
-- [node-red-contrib-gpio](https://github.com/nebrius/raspi-io): An IO plugin for Johnny-Five that provides support for the Raspberry Pi.
+- [raspi-io](https://github.com/nebrius/raspi-io): An IO plugin for Johnny-Five that provides support for the Raspberry Pi.
 
 # Frontend Techonologies on server
 
 - [node-red-contrib-graphs](https://www.npmjs.com/package/node-red-contrib-graphs): A Node-RED graphing package.
-- [node-red-contrib-ui](https://www.npmjs.com/package/node-red-contrib-ui): UI nodes for node-red.
 
 # Installation:
 
