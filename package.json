@@ -1,0 +1,23 @@
+{
+  "name": "node-red-accelerometer",
+  "version": "1.0.0",
+  "description": "Node Red Accelerometer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masalinas/node-red-accelerometer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masalinas/node-red-accelerometer/issues"
+  },
+  "homepage": "https://github.com/masalinas/node-red-accelerometer#readme",
+  "dependencies": {
+    "node-red": "^0.14.3",
+    "node-red-contrib-graphs": "^0.3.5"
+  }
+}
