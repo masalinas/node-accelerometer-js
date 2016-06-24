@@ -8,8 +8,7 @@ The Node-RED flow Designer in raspberry pi:
 
 The Node-RED flow Designer in server side:
 
-The Dashboard with node-red-contrib-graph node-red module
-
+![picapp - apple macbook air 2](https://cloud.githubusercontent.com/assets/1216181/16336999/69195666-3a12-11e6-8112-7ea83a57d1e0.png)
 
 The Raspberry pi 3 and accelerometer connected
 
@@ -104,9 +103,14 @@ Start node-red
   node node_modules/node-red/red.js
 ```
 
-Access Node-Red raspberry pi Web Dashboard
+Access Node-Red server Web designer
 ```
-  http://192.168.1.45:1880/dash
+  http://localhost:1880/
+```
+
+- Copy and import this flow from node-red import clipboard to crete the raspberry pi flow
+```
+[{"id":"d4a328fc.110fd8","type":"mqtt in","z":"19f847a6.9b1408","name":"","topic":"mpu6050","qos":"2","broker":"e8b9681b.ed6e18","x":123,"y":102,"wires":[["9bfd210a.90696"]]},{"id":"9bfd210a.90696","type":"debug","z":"19f847a6.9b1408","name":"","active":true,"console":"false","complete":"false","x":367,"y":102,"wires":[]},{"id":"e8b9681b.ed6e18","type":"mqtt-broker","z":"19f847a6.9b1408","broker":"localhost","port":"1883","tls":null,"clientid":"","usetls":false,"compatmode":true,"keepalive":"60","cleansession":true,"willTopic":"","willQos":"0","willRetain":null,"willPayload":"","birthTopic":"","birthQos":"0","birthRetain":null,"birthPayload":""}]
 ```
 
 # Licenses
