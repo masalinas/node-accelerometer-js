@@ -12,7 +12,7 @@ The Dashboard with node-red-contrib-graph node-red module
 
 The Raspberry pi 3 and accelerometer connected
 
-![accelerometer_raspberrypi](https://cloud.githubusercontent.com/assets/1216181/16017883/41bb0646-31a2-11e6-907b-8fb9019c17c8.jpeg)
+![node-red-accelerometer](https://cloud.githubusercontent.com/assets/1216181/16336750/fa8eed48-3a0f-11e6-8810-018dc226854c.JPG)
 
 Architecture
 
