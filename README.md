@@ -16,6 +16,8 @@ The Raspberry pi 3 and accelerometer connected
 
 Architecture
 
+![architecture](https://cloud.githubusercontent.com/assets/1216181/16357341/1f6fc83c-3af4-11e6-9b85-b0e8a111a843.png)
+
 # Hardware:
 
 - [Raspberry pi 3](https://www.raspberrypi.org/): The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation.
